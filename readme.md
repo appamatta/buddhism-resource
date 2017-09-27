@@ -1,8 +1,6 @@
 # A Collection of Resources Pertaining to Thai Forest Theravada Buddhism
 
 
----
-
 
 ## Table of Contents
 
@@ -22,7 +20,7 @@
     - [Chanting Books](#chanting-books)
     - [Audio Resources](#audio-resources)
 - [For Monastics](#for-monastics)
-  - [Considering the renunciant life?](#considering-the-renunciant-life?)
+  - [Considering the renunciant life?](#considering-the-renunciant-life)
 - [Forums](#forums)  
 - [Related Projects](#related-projects)  
 - [License](#license)
@@ -83,7 +81,11 @@ Is he important for me? What meaning does he have for me?"
 
     - ###### Delusion (Moha) TODO
       - Contemplation of Pain (Dukkha Vedana) TODO
-      - Contemplation of Death (Maranasati) TODO
+      - Contemplation of Death (Maranasati)
+        - [Maranasati (Wikipedia)](https://en.wikipedia.org/wiki/Mara%E1%B9%87asati)
+        - [Maranasati Sutta](http://www.accesstoinsight.org/tipitaka/an/an06/an06.019.than.html)
+        - [Shining the Light on Death (Part 1)](https://www.bcbsdharma.org/article/shining-the-light-of-death-on-life-maranasati-meditation-part-i/)
+        - [Shining the Light on Death (Part 2)](https://www.bcbsdharma.org/article/shining-the-light-of-death-on-life-maranasati-meditation-part-ii/)
       - Contemplation of Kamma TODO
       - Contemplation of Rebirth TODO
 
