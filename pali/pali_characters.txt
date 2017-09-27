@@ -1,10 +1,16 @@
+See https://lapislazulitexts.com/articles/matrka_serif
+
 Pali characters:
-ā ī ū ḷ ṃ ṇ ṭ ñ 
+Ā Ḍ Ḥ Ī Ḷ Ḹ Ṁ Ṃ Ṅ Ñ Ṇ Ṛ Ṝ Ś Ṣ Ṭ Ū ā ḍ ḥ ī ḷ ḹ ṁ ṃ ṅ ñ ṇ ṛ ṝ ś ṣ ṭ ū
 
 
 ā
 
+ḍ
+
 ḥ
+
+ḷ
 
 ṃ  ṁ 
 
