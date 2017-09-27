@@ -30,7 +30,6 @@ TOC...
 
 ###### from The Metta Forest Monastery
 - [With Each & Every Breath](https://www.dhammatalks.org/ebook_index.html#eachandeverybreath) - “…starting point for learning breath meditation…”
-
 - [Keeping the Breath in Mind](https://www.dhammatalks.org/ebook_index.html#keepingthebreath) - “…other fundamental guide to breath meditation by Ajaan Lee”
 
 #### Countering the Defilements
@@ -52,3 +51,19 @@ TOC...
 - Contemplation of Death
 - Contemplation of Kamma
 - Contemplation of Rebirth
+
+
+---
+
+## Chanting
+- [Why Chant?](https://github.com/job-talk/dhammapuja/wiki#why-chant)
+
+#### Chanting Books
+- [buddhism-resource/chanting](https://github.com/job-talk/buddhism-resource/tree/master/chanting) - Repository of chanting books from various Thai Forest monasteries
+
+#### Audio Resources
+- [dhammatalks.org chant index](https://www.dhammatalks.org/chant_index.html) - Pali & English chants from the Metta Forest Monastery
+- [amaravati.org chanting section](http://www.amaravati.org/speakers/amaravati-sangha/) - Collection of chants from the Amaravati Sangha
+
+#### Chanting Tools
+- [dhammapuja](https://dhammapuja.com/) - A tool to help learn Theravadin chants
