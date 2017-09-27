@@ -75,7 +75,9 @@ Is he important for me? What meaning does he have for me?"
 - [Breath Meditation Condensed](https://www.budsas.org/ebud/ebmed043.htm) - Guide to breath meditation by Upasika Kee Nanayon
 
 #### Countering the Defilements
-- [Kilesas - Wikipedia](https://en.wikipedia.org/wiki/Kleshas_(Buddhism) - Overview of the defiled states of mind.
+- <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)">Kilesas</a> - Overview of the defiled states of mind.
+
+
 
 ###### Greed (Lobha)
 - [Patikulamanasikara - Wikipedia](https://en.wikipedia.org/wiki/Patikulamanasikara) (Overview)
@@ -131,7 +133,7 @@ Is he important for me? What meaning does he have for me?"
    - [Going Forth](http://www.parami.org/going-forth/) - A collection of links on personal reflections on life as a Theravada Buddhist monk.
 
   - [Ordination Procedure (Upasampadavidhi)](https://github.com/job-talk/buddhism-resource/blob/master/ordination/ordination_procedure-upasampadavidhi.pdf) - The Preliminary Duties of a New Bhikkhu
-  
+
 - [Pra Farang Thai Primer](https://github.com/job-talk/buddhism-resource/blob/readme/general/Pra%20Farang%20Thai%20Primer%201st%20Edition.pdf) - Monastic Thai Vocabulary and Phrases
 -
 
