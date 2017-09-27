@@ -17,13 +17,17 @@
       - [Greed](#greed)
       - [Hate](#hate)
       - [Delusion](#delusion)
-- [Supporting Practices](#supporting-practices)      
+- [Supporting Practices](#supporting-practices)
+  - [Dana (Generosity)](#dana)
+  - [Sila (Moral Restraint)](#sila)
+  - [Bowing](#bowing)
   - [Chanting](#chanting)
     - [Why Chant?](#why-chant?)
     - [Chanting Tools](#chanting-tools)  
     - [Chanting Books](#chanting-books)
     - [Audio Resources](#audio-resources)
-- [For Monastics](#for-monastics)  
+- [For Monastics](#for-monastics)
+  - [Considering the renunciant life?](#considering-the-renunciant-life?)
 - [Related Projects](#related-projects)  
 - [License](#license)
 
@@ -66,33 +70,31 @@ Is he important for me? What meaning does he have for me?"
 
 ## Practical Knowledge
 
-### Meditation
+  - ### Meditation
 
-#### Basics
-- [Kammaṭṭhāna - Wikipedia](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na) - Basic overview of Buddhist meditation.
-- [With Each & Every Breath](https://www.dhammatalks.org/ebook_index.html#eachandeverybreath) - “…starting point for learning breath meditation…”
-- [Keeping the Breath in Mind](https://www.dhammatalks.org/ebook_index.html#keepingthebreath) - “…other fundamental guide to breath meditation by Ajaan Lee”
-- [Breath Meditation Condensed](https://www.budsas.org/ebud/ebmed043.htm) - Guide to breath meditation by Upasika Kee Nanayon
+    - #### Basics
+      - [Kammaṭṭhāna - Wikipedia](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na) - Basic overview of Buddhist meditation.
+      - [With Each & Every Breath](https://www.dhammatalks.org/ebook_index.html#eachandeverybreath) - “…starting point for learning breath meditation…”
+      - [Keeping the Breath in Mind](https://www.dhammatalks.org/ebook_index.html#keepingthebreath) - “…other fundamental guide to breath meditation by Ajaan Lee”
+      - [Breath Meditation Condensed](https://www.budsas.org/ebud/ebmed043.htm) - Guide to breath meditation by Upasika Kee Nanayon
 
-#### Countering the Defilements
-- <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)">Kilesas</a> - Overview of the defiled states of mind.
+  - #### Countering the Defilements
+    - <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)">Kilesas</a> - Overview of the defiled states of mind.
 
+    - ###### Greed (Lobha)
+      - [Patikulamanasikara - Wikipedia](https://en.wikipedia.org/wiki/Patikulamanasikara) (Overview)
+      - [Asubha Pictures (For practitioners only)](http://www.luangta.eu/site/books/book15_asubha.php) (**GRAPHIC**)
+      - [Asubha Meditation - YouTube Playlist](https://youtu.be/KpsvpuWiq3Q) (**GRAPHIC**)
 
+    - ###### Hate (Dosa)
+      - [Mettā - Wikipedia](https://en.wikipedia.org/wiki/Mett%C4%81) (Overview)
+      - [Benefits of Metta Meditation - Metta Sutta](http://www.accesstoinsight.org/tipitaka/an/an11/an11.016.than.html)
 
-###### Greed (Lobha)
-- [Patikulamanasikara - Wikipedia](https://en.wikipedia.org/wiki/Patikulamanasikara) (Overview)
-- [Asubha Pictures (For practitioners only)](http://www.luangta.eu/site/books/book15_asubha.php) (**GRAPHIC**)
-- [Asubha Meditation - YouTube Playlist](https://youtu.be/KpsvpuWiq3Q) (**GRAPHIC**)
-
-###### Hate (Dosa)
-- [Mettā - Wikipedia](https://en.wikipedia.org/wiki/Mett%C4%81) (Overview)
-- [Benefits of Metta Meditation - Metta Sutta](http://www.accesstoinsight.org/tipitaka/an/an11/an11.016.than.html)
-
-###### Delusion (Moha)
-- Contemplation of Pain
-- Contemplation of Death
-- Contemplation of Kamma
-- Contemplation of Rebirth
+    - ###### Delusion (Moha) TODO
+      - Contemplation of Pain (Dukkha Vedana) TODO
+      - Contemplation of Death (Maranasati) TODO
+      - Contemplation of Kamma TODO
+      - Contemplation of Rebirth TODO
 
 
 ---
@@ -129,10 +131,11 @@ Is he important for me? What meaning does he have for me?"
 
 ## For Monastics
 
-- #### For those considering the renunciant life
+- #### Considering the renunciant life?
    - [Going Forth](http://www.parami.org/going-forth/) - A collection of links on personal reflections on life as a Theravada Buddhist monk.
 
   - [Ordination Procedure (Upasampadavidhi)](https://github.com/job-talk/buddhism-resource/blob/master/ordination/ordination_procedure-upasampadavidhi.pdf) - The Preliminary Duties of a New Bhikkhu
+
 
 - [Pra Farang Thai Primer](https://github.com/job-talk/buddhism-resource/blob/readme/general/Pra%20Farang%20Thai%20Primer%201st%20Edition.pdf) - Monastic Thai Vocabulary and Phrases
 -
