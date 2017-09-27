@@ -7,8 +7,9 @@
 ## Table of Contents
 
 - [Introduction to the Dhamma](#introduction-to-the-dhamma)
-- [Theoretical Knowledge](#theoretical-knowledge)
   - [FAQs](#faqs)
+- [Theoretical Knowledge](#theoretical-knowledge)
+  - [Forums](#forums)
 - [Practical Knowledge](#practical-knowledge)
   - [Meditation](#meditation)
     - [Basics](#basics)
@@ -16,12 +17,15 @@
       - [Greed](#greed)
       - [Hate](#hate)
       - [Delusion](#delusion)
-- [Chanting](#chanting)
-  - [Why Chant?](#why-chant?)
-  - [Chanting Books](#chanting-books)
-  - [Audio Resources](#audio-resources)
-  - [Chanting Tools](#chanting-tools)
+- [Supporting Practices](#supporting-practices)      
+  - [Chanting](#chanting)
+    - [Why Chant?](#why-chant?)
+    - [Chanting Tools](#chanting-tools)  
+    - [Chanting Books](#chanting-books)
+    - [Audio Resources](#audio-resources)
+- [For Monastics](#for-monastics)  
 - [Related Projects](#related-projects)  
+- [License](#license)
 
 
 ---
@@ -36,9 +40,17 @@
 
 
 ### FAQs
-- [How to become a Buddhist - Parami.org](http://www.parami.org/how-to-become-a-buddhist/) - A guide to becoming a Buddhist.
-- [Buddhist Answers - Parami.org](http://www.parami.org/buddhist-answers/) - "Who is the Buddha really? What is he? And what did he teach?
+- [How to become a Buddhist](http://www.parami.org/how-to-become-a-buddhist/) - A guide to becoming a Buddhist.
+- [Buddhist Answers](http://www.parami.org/buddhist-answers/) - "Who is the Buddha really? What is he? And what did he teach?
 Is he important for me? What meaning does he have for me?"
+- [/r/buddhism FAQ](https://www.reddit.com/r/Buddhism/wiki/faq) - The official FAQ for /r/buddhism
+
+### Forums
+- [SuttaCentral Discourse](https://discourse.suttacentral.net/) - Discuss & Discover on SuttaCentral
+- [Dhamma Wheel](http://dhammawheel.com/) - "A forum for beginners and members of other Buddhist traditions to ask questions about Theravāda (The Way of the Elders)."
+- [/r/buddhism](https://www.reddit.com/r/Buddhism/) - A reddit for all kinds of Buddhist teachings!
+
+
 ---
 
 
@@ -84,19 +96,30 @@ Is he important for me? What meaning does he have for me?"
 ---
 
 
-## Chanting
+## Supporting Practices
 
-- [Why Chant?](https://github.com/job-talk/dhammapuja/wiki#why-chant)
+  - ### Dana (Generosity)
 
-#### Chanting Books
-- [buddhism-resource/chanting](https://github.com/job-talk/buddhism-resource/tree/master/chanting) - Repository of chanting books from various Thai Forest monasteries.
+  - ### Sila (Moral Restraint)
+    - [Buddist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
+    - [Five Precepts](https://en.wikipedia.org/wiki/Five_Precepts)
 
-#### Audio Resources
-- [dhammatalks.org chant index](https://www.dhammatalks.org/chant_index.html) - Pali & English chants from the Metta Forest Monastery.
-- [amaravati.org chanting section](http://www.amaravati.org/speakers/amaravati-sangha/) - Collection of chants from the Amaravati Sangha.
+  - ### Bowing
+    - Why Bow?
 
-#### Chanting Tools
-- [dhammapuja](https://dhammapuja.com/) - A tool to help learn Theravadin chants.
+  - ### Chanting
+
+    - [Why Chant?](https://github.com/job-talk/dhammapuja/wiki#why-chant)
+
+    - ##### Chanting Tools
+      - [dhammapuja](https://dhammapuja.com/) - A tool to help learn Theravadin chants.
+
+    - ##### Chanting Books
+      - [buddhism-resource/chanting](https://github.com/job-talk/buddhism-resource/tree/master/chanting) - Repository of chanting books from various Thai Forest monasteries.
+
+    - ##### Audio Resources
+      - [dhammatalks.org chant index](https://www.dhammatalks.org/chant_index.html) - Pali & English chants from the Metta Forest Monastery.
+      - [amaravati.org chanting section](http://www.amaravati.org/speakers/amaravati-sangha/) - Collection of chants from the Amaravati Sangha.
 
 
 ---
@@ -104,8 +127,13 @@ Is he important for me? What meaning does he have for me?"
 
 ## For Monastics
 
-- [Going Forth](http://www.parami.org/going-forth/) - A collection of links on personal reflections on life as a Theravada Buddhist monk.
+- #### For those considering the renunciant life
+   - [Going Forth](http://www.parami.org/going-forth/) - A collection of links on personal reflections on life as a Theravada Buddhist monk.
 
+  - [Ordination Procedure (Upasampadavidhi)](https://github.com/job-talk/buddhism-resource/blob/master/ordination/ordination_procedure-upasampadavidhi.pdf) - The Preliminary Duties of a New Bhikkhu
+  
+- [Pra Farang Thai Primer](https://github.com/job-talk/buddhism-resource/blob/readme/general/Pra%20Farang%20Thai%20Primer%201st%20Edition.pdf) - Monastic Thai Vocabulary and Phrases
+-
 
 
 ---
@@ -115,3 +143,13 @@ Is he important for me? What meaning does he have for me?"
 ## Related Projects
 - [Awesome Theravada](https://github.com/johnjago/awesome-theravada) - A curated list of Theravada Buddhist teachings.
 - [Awesome Pali](https://github.com/unbinding-org/awesome-pali) - Awesome things related to Pali.
+
+
+---
+
+
+## License
+
+[<img src="https://i.creativecommons.org/l/by/4.0/80x15.png" alt="Creative Commons Attribution 4.0 International License" border-width="0">](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
