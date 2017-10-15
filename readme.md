@@ -140,7 +140,7 @@ Is he important for me? What meaning does he have for me?"
 ---
 
 
-### Forums
+## Forums
 - [SuttaCentral Discourse](https://discourse.suttacentral.net/) - Discuss & Discover on SuttaCentral.
 - [Dhamma Wheel](http://dhammawheel.com/) - "A forum for beginners and members of other Buddhist traditions to ask questions about Theravāda (The Way of the Elders)."
 - [/r/buddhism](https://www.reddit.com/r/Buddhism/) - A reddit for all kinds of Buddhist teachings!
